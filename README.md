@@ -1,5 +1,5 @@
 YT-comment-blocker
 ==================
 
-Add-on for firefox to block YouTube comments
+Add-on for Firefox to block YouTube comments
 
