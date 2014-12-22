@@ -4,6 +4,6 @@
   "id": "jid1-mbruOm7Fo4eCqw",
   "description": "Removes the comments from a YouTube video page",
   "author": "robin007bond",
-  "license": "MPL 2.0",
-  "version": "0.2"
+  "license": "GPL3",
+  "version": "1.0"
 }
