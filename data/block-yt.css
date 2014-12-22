@@ -1,3 +1,8 @@
 #watch-discussion {
     display: none;
 }
+
+/* This is for the comment page loaded in the iframe */
+#root {
+    display: none;
+}
